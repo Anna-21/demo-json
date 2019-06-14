@@ -1,0 +1,108 @@
+{
+	"name":"Iliana Beziani",
+	"title":"Android Developer",
+	"professional_summary":"o   Android developer with 4 years of experience in diverse industries such as transportation, travel, and productivity
+                            o	Extensive experience in complex user interface design and custom layouts following mobile design standards
+                            o	Utilized fragments, diverse layouts, animations, material design, Compound Views, and Custom Views to fulfil user interface requirements
+                            o	Follow the best practise for requirement gathering, design documentation, code review, testing and defect fixing
+                            o	Experience in software methodologies such as Agile, Scrum, and Waterfall
+                            o	Expert in designing, developing and publishing scalable and high-performance android applications both in front end and back end
+                            o	Self-motivated, fast learner, proficient in programming logic and easily updatable to new technologies
+                            o	Firm understanding of building mobile applications that utilize web-services (HTTP based, XML, JSON or other services)
+",
+	"technical_skills":[
+		"Kotlin","Java","Open source libraries","RxJava","RxAndroid","Retrofit","Junit","Espresso","Glide","Push Notifications","Dagger2","AWS","Java annotations","Robotium","Google Analytics"
+
+	],
+	"past_experience":[
+		{
+			"company_name":"TrainPal – UK Train Tickets & Split Ticketing",
+			"company_logo":"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/43/5c/ff/435cff31-8525-405f-093c-35f1a95f7504/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/246x0w.jpg",
+			"role_name": "Android Developer",
+			"date_from": "2018-04",
+			"date_to" : "2018-05",
+			"main_responsibility":"o	Utilised RxBinding, RxLifecycle, RxSchedulers, RxJava methods to sync real time train details and booking information to the device.
+                                   o	Worked in MVVM architecture using Data Binding Library to bind UI components in layouts to data sources in using a declarative format with one-to-many mapping between Various Views and one View Model
+                                   o	Working with the integration of kotlin into the codebase
+                                   o	Achieved separation of concerns with Dagger using scopes/module/sub-components
+                                   o	Assisted with the Kotlin transition and participated in a major refactoring of the codebase
+                                   o	Performed instrumentation testing/ UI testing, simulate user interaction, and assert events after user interaction
+                                   o	Used Git flow for code integration, Jenkins for continuous integration and JIRA for bug tracking
+                                   o	Performed additional beta testing using Google Cloud testing mechanism
+                                   o	Encrypted card details in Android KeyStore system to store cryptographic keys in a container to make it more difficult to extract form the device
+                                   o	Synced with Amazon Web Services (AWS) for secure cloud services platform, database storage and content delivery
+",
+			"achievements":[
+				"Improved stability of the app from 50 crashes a week to 1-2 crashes per week",
+				"increased retention rate by adding notifications"
+			]
+		},
+		{
+			"company_name":"Jobmagnet: tap that job search",
+			"company_logo":"https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/dc/e8/19/dce8199f-808f-3b62-e439-34b4a94a4acc/source/512x512bb.jpg",
+			"role_name": "Android Developer",
+			"date_from": "2017-08",
+			"date_to" : "2018-03",
+			"main_responsibility":"o	Communicated with Google Contacts API to create new contacts, edit or delete existing contacts, and query for contacts that match particular criteria
+                                   o	Architected user-stories with MVP to create presenters to load data from the model and show it on the view
+                                   o	Used Espresso for instrumentation testing using Assertions, Matchers and Actions for 80% view code-coverage
+                                   o	Implemented Dependency inversion principle and Open-closed Principle new user-stories for high level module not depend on low-level module
+                                   o	Encrypted login details using secured preferences library
+                                   o	Incorporated ShorcutBucket API to show the count of the unread messages as a badge on App shortcut
+                                   o	Used Jackson JSON processor library to add support for serializing POJO’s as XML(and deserializing from XML) to display list of jobs in RecylerView
+                                   o	Replaced Google Analytics with Firebase SDK for push notifications, analytics, crash reporting and authentication services
+                                   o	Worked with google GData client library to access Google APIs using JSON and OAuth 2.0
+                                   o	Generated a stream of data using observables which were filtered and concentrated using different Rxjava operators.
+",
+			"achievements":[
+				"Improved stability of the app from 50 crashes a week to 1-2 crashes per week",
+				"increased retention rate by adding notifications"
+			]
+		},
+		{
+			"company_name":"Drinkaware",
+			"company_logo":"https://i.ytimg.com/vi/Ju-x2cyTZFw/hqdefault.jpg",
+			"role_name": "Android Developer",
+			"date_from": "2016-06",
+			"date_to" : "2017-08",
+			"main_responsibility":"o	Download extensive database of alcohol brands, drink details using Volley http library with Cancellation request API
+                                   o	Worked with “Tracks the units and calories in drinks” algorithms with mediator, factory, builder design patterns
+                                   o	Worked with testers to create TDD testcase using Mockito and UI testcase using Espresso
+                                   o	Coded in MVP architecture with faster XML Jackson serialization and configuration framework converted with eventBus to communicate with different presenters
+                                   o	Created paid version product flavour and build variants for paid customers to expose unique features
+                                   o	Used Glide to handle the lazy-loading, cache and asynchronous processing of the image recourses
+                                   o	Included Android RecyclerView adding search Filter with material design UI
+                                   o	Optimised the application to be used with the latest Android APIs available: runtime permissions, Battery Doze and Standby mode and custom HTTP clients
+                                   o	Implemented the use of handlers and threads on several tasks which improve the application’s performance
+",
+			"achievements":[
+				"Improved stability of the app from 50 crashes a week to 1-2 crashes per week",
+				"increased retention rate by adding notifications"
+			]
+		},
+		{
+        	"company_name":"ParcelTrack – Package Tracker for Fedex, UPS, USPS",
+        	"company_logo":"https://pbs.twimg.com/profile_images/508181080709402624/GW4jiRAB.png",
+        	"role_name": "Junior Android Developer",
+        	"date_from": "2015-11",
+        	"date_to" : "2016-05",
+        	"main_responsibility":"o	Define business rules for data manipulation and then process the user’s data with the help of Model and passing the results back to the View in MVC architecture
+                                   o	Configure the send Push notification about delivery status using GCM coupled with UrbanAirship external sdk
+                                   o	Programmed search criteria filter feature to detect delivery service associated with tracking number
+                                   o	Stored all delivery packages in ParceTrack local database using GrenDAO database with SQLCliper encryption
+                                   o	Added encrypted environment configuration with seasons and user login using SharedPreferences
+                                   o	Worked on Google In-app Billing and Samsung in app purchase to provide check out processing for in-app purchase to by subscription
+                                   o	Identified and correct the bottlenecks and fix bugs using TargetProcess
+                                   o	Included Facebook user login authentication API
+                                   o	Conducted frequent code review activities with the members of development team using Collaborator tool
+                                   o	Implemented offline tool and synchronised data when connectivity becomes available
+
+",
+        	"achievements":[
+        		"Improved stability of the app from 50 crashes a week to 1-2 crashes per week",
+        		"increased retention rate by adding notifications"
+        	]
+        }
+
+	]
+}
