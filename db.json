@@ -10,7 +10,7 @@
 			"company_name": "TrainPal – UK Train Tickets & Split Ticketing",
 			"company_logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/43/5c/ff/435cff31-8525-405f-093c-35f1a95f7504/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/246x0w.jpg",
 			"role_name": "Android Developer",
-			"date_from": "2018-04",
+			"date_from":"2018-04",
 			"date_to": "2018-05",
 			"main_responsibility": "Utilised RxBinding, RxLifecycle, RxSchedulers, RxJava methods to sync real time train details and booking information to the device",
 			"achievements": [
