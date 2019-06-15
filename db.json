@@ -7,11 +7,11 @@
 
 	],
 	"past_experience": [{
-			"company_name": "TrainPal – UK Train Tickets & Split Ticketing",
+			"company_name":"TrainPal – UK Train Tickets & Split Ticketing",
 			"company_logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/43/5c/ff/435cff31-8525-405f-093c-35f1a95f7504/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/246x0w.jpg",
 			"role_name": "Android Developer",
-			"date_from": "2018-04",
-			"date_to": "2018-05",
+			"date_from":"2018-04",
+			"date_to":"2018-05",
 			"main_responsibility": "- Communicated with Google Contacts API to create new contacts, edit or delete existing contacts, and query for contacts that match particular criteria, Architected user - stories with MVP to create presenters to load data from the model and show it on the view,Used Espresso for instrumentation testing using Assertions, Matchers and Actions for 80% view code-coverage ",
 			"achievements": [
 				"Improved stability of the app from 50 crashes a week to 1-2 crashes per week",
