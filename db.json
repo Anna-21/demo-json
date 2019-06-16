@@ -1,15 +1,15 @@
 {
 	"name": "Iliana Beziani",
 	"title": "Android Developer",
-	"professional_summary": "Android developer with 4 years of experience in diverse industries such as transportation, travel, and productivity",
-	"technical_skills": "Kotlin, Java, Open source libraries, RxJava, RxAndroid, Retrofit, Junit, Espresso, Glide, Push Notifications, Dagger2, AWS, Java annotations, Robotium, Google Analytics",
+	"professional_summary": "Android developer with 4 years of experience in diverse industries such as transportation, travel, and productivity. Extensive experience in complex user interface design and custom layouts following mobile design standards. Expert in designing, developing and publishing scalable and high-performance android applications both in front end and back end. Self-motivated, fast learner, proficient in programming logic and easily updatable to new technologies",
+	"technical_skills": "Kotlin, Java, Open source libraries, RxJava, RxAndroid, Retrofit, Junit, Espresso, Glide, Push Notifications, Dagger2, AWS, Java annotations, Robotium, Google Analytics, Constraint Layout, Content Providers, RecyclerView Animator, IntentServices, Dagger, Firebase, Android Jetpack",
 	"past_experience": [{
 			"company_name": "TrainPal – UK Train Tickets & Split Ticketing",
 			"company_logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/43/5c/ff/435cff31-8525-405f-093c-35f1a95f7504/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/246x0w.jpg",
 			"role_name": "Android Developer",
 			"date_from": "2018-04",
 			"date_to": "2018-05",
-			"main_responsibility": "Utilised RxBinding, RxLifecycle, RxSchedulers, RxJava methods to sync real time train details and booking information to the device",
+			"main_responsibility": "Utilised RxBinding, RxLifecycle, RxSchedulers, RxJava methods to sync real time train details and booking information to the device. '\r\n' Worked in MVVM architecture using Data Binding Library to bind UI components in layouts to data sources in using a declarative format with one-to-many mapping between Various Views and one View Model '\r\n' Working with the integration of kotlin into the codebase",
 			"achievements": [
 				"Improved stability of the app from 50 crashes a week to 1-2 crashes per week",
 				"increased retention rate by adding notifications"
@@ -21,7 +21,7 @@
 			"role_name": "Android Developer",
 			"date_from": "2017-08",
 			"date_to": "2018-03",
-			"main_responsibility": "o Communicated with Google Contacts API to create new contacts, edit or delete existing contacts, and query for contacts that match particular criteria,o Architected user - stories with MVP to create presenters to load data from the model and show it on the view, o Used Espresso",
+			"main_responsibility": "Communicated with Google Contacts API to create new contacts, edit or delete existing contacts, and query for contacts that match particular criteria. '\r\n' Architected user - stories with MVP to create presenters to load data from the model and show it on the view. '\r\n' Used Espresso for instrumentation testing using Assertions, Matchers and Actions for 80% view code-coverage.'\r\n' Implemented Dependency inversion principle and Open-closed Principle new user-stories for high level module not depend on low-level module. ",
 			"achievements": [
 				"Improved stability of the app from 50 crashes a week to 1-2 crashes per week",
 				"increased retention rate by adding notifications"
@@ -33,7 +33,7 @@
 			"role_name": "Android Developer",
 			"date_from": "2016-06",
 			"date_to": "2017-08",
-			"main_responsibility": "o Download extensive database of alcohol brands, drink details using Volley http library with Cancellation request API '\r\n'o  Worked with“ Tracks the units and calories in drinks” algorithms with mediator ",
+			"main_responsibility": "Download extensive database of alcohol brands, drink details using Volley http library with Cancellation request API '\r\n' Worked with“ Tracks the units and calories in drinks” algorithms with mediator. '\r\n' Worked with testers to create TDD testcase using Mockito and UI testcase using Espresso. '\r\n' Coded in MVP architecture with faster XML Jackson serialization and configuration framework converted with eventBus to communicate with different presenters. ",
 			"achievements": [
 				"Improved stability of the app from 50 crashes a week to 1-2 crashes per week",
 				"increased retention rate by adding notifications"
@@ -45,7 +45,7 @@
 			"role_name": "Junior Android Developer",
 			"date_from": "2015-11",
 			"date_to": "2016-05",
-			"main_responsibility": "Define business rules for data manipulation and then process the user’s data with the help of Model and passing the results back to the View in MVC architecture",
+			"main_responsibility": "Define business rules for data manipulation and then process the user’s data with the help of Model and passing the results back to the View in MVC architecture '\r\n' Configure the send Push notification about delivery status using GCM coupled with UrbanAirship external sdk. '\r\n' Stored all delivery packages in ParceTrack local database using GrenDAO database with SQLCliper encryption. ",
 			"achievements": [
 				"Improved stability of the app from 50 crashes a week to 1-2 crashes per week",
 				"increased retention rate by adding notifications"
