@@ -9,7 +9,7 @@
 			"role_name": "Android Developer",
 			"date_from": "2018-04",
 			"date_to": "2018-05",
-			"main_responsibility": "Utilised RxBinding, RxLifecycle, RxSchedulers, RxJava methods to sync real time train details and booking information to the device. '\r\n' Worked in MVVM architecture using Data Binding Library to bind UI components in layouts to data sources in using a declarative format with one-to-many mapping between Various Views and one View Model '\r\n' Working with the integration of kotlin into the codebase",
+			"main_responsibility": "Utilised RxBinding, RxLifecycle, RxSchedulers, RxJava methods to sync real time train details and booking information to the device. \r\n Worked in MVVM architecture using Data Binding Library to bind UI components in layouts to data sources in using a declarative format with one-to-many mapping between Various Views and one View Model \r\n Working with the integration of kotlin into the codebase",
 			"achievements": [
 				"Improved stability of the app from 50 crashes a week to 1-2 crashes per week",
 				"increased retention rate by adding notifications"
