@@ -23,8 +23,7 @@
 			"date_to": "2018-03",
 			"main_responsibility": "Communicated with Google Contacts API to create new contacts, edit or delete existing contacts, and query for contacts that match particular criteria.\r\nArchitected user - stories with MVP to create presenters to load data from the model and show it on the view.\r\nUsed Espresso for instrumentation testing using Assertions, Matchers and Actions for 80% view code-coverage.\r\nImplemented Dependency inversion principle and Open-closed Principle new user-stories for high level module not depend on low-level module. ",
 			"achievements": [
-					"Spearheaded the design and development of CheckApp",
-					"Held weekly brainstorming sessions that spawned numerous ideas"
+					"Spearheaded the design and development of CheckApp.\r\nHeld weekly brainstorming sessions that spawned numerous ideas"
 				]
 		},
 		{
@@ -35,8 +34,7 @@
 			"date_to": "2017-08",
 			"main_responsibility": "Download extensive database of alcohol brands, drink details using Volley http library with Cancellation request API.\r\nWorked with“ Tracks the units and calories in drinks” algorithms with mediator.\r\nWorked with testers to create TDD testcase using Mockito and UI testcase using Espresso.\r\nCoded in MVP architecture with faster XML Jackson serialization and configuration framework converted with eventBus to communicate with different presenters. ",
 			"achievements": [
-				"Provided guidance to executives on the future direction and bottom line benefits of mobile technology",
-				"Integrated Facebook feature for easy sign on"
+				"Provided guidance to executives on the future direction and bottom line benefits of mobile technology.\r\nIntegrated Facebook feature for easy sign on"
 			]
 			
 		},
@@ -48,8 +46,7 @@
 			"date_to": "2016-05",
 			"main_responsibility": "Define business rules for data manipulation and then process the user’s data with the help of Model and passing the results back to the View in MVC architecture.\r\nConfigure the send Push notification about delivery status using GCM coupled with UrbanAirship external sdk.\r\nStored all delivery packages in ParceTrack local database using GrenDAO database with SQLCliper encryption. ",
 			"achievements":[
-				"Conceived, designed and implemented Gourmettogo, which boosted sales of high margin products by 15 percent",
-				"Accelerated the company’s expansion by creating mobile application utilizing XML-RPC and JSON"
+				"Conceived, designed and implemented Gourmettogo, which boosted sales of high margin products by 15 percent.\r\nAccelerated the company’s expansion by creating mobile application utilizing XML-RPC and JSON"
 			]
 			
 		}
